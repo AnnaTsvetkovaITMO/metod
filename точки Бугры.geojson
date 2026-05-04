@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "точки Бугры",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 3 }, "geometry": { "type": "Point", "coordinates": [ 3389842.297209232114255, 8409728.535895600914955 ] } }
+]
+}

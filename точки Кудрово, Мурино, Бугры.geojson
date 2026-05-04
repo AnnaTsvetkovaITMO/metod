@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "точки Кудрово, Мурино, Бугры",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Point", "coordinates": [ 30.513532890783225, 59.905428564514843 ] } },
+{ "type": "Feature", "properties": { "fid": 2 }, "geometry": { "type": "Point", "coordinates": [ 30.451471463378827, 60.04484332316374 ] } },
+{ "type": "Feature", "properties": { "fid": 6 }, "geometry": { "type": "Point", "coordinates": [ 30.394725642103609, 60.068596178336485 ] } }
+]
+}
